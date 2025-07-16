@@ -65,8 +65,8 @@
     <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="HuggingFace" width="40" height="40"/>
   </a>
   <a href="https://www.deepgram.com/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/deepgram-icon-2048x2048-3s1hd4fw.png" alt="Deepgram" width="40" height="40"/>
-  </a>
+  <img src="https://avatars.githubusercontent.com/u/11555010?s=200&v=4" alt="Deepgram" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 6px;" />
+</a>
   <a href="https://www.twilio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968770.png" alt="Twilio" width="40" height="40"/>
   </a>
@@ -89,9 +89,9 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  </a>
+ <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
+</a>
 
 </p>
 
