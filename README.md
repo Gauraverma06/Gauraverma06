@@ -69,7 +69,8 @@ Organized and led national-level hackathons; built event tools for management.
         <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    
+  </tr>
+    <tr> 
     <td width="50%">
       <h3>🧠 Deepfake Detector</h3>
       <p>Detects deepfakes using ResNeXt50 + LSTM and provides predictions via a responsive web interface.</p>
@@ -81,6 +82,7 @@ Organized and led national-level hackathons; built event tools for management.
         <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+    </tr>
   </tr>
 </table>
 
