@@ -45,7 +45,7 @@ Developed AI-driven NFTs that evolve over time based on user interactions.
 #### 🤖 AI-powered Interview System & HR Automation
 An AI hiring assistant automating resume parsing, aptitude tests, and interviews.
 - **Tech Stack:** Gen AI, Python, React, Node.js, MongoDB, AWS, Deepgram, Twilio
-- 🔗 [GitHub Repo](https://github.com/Gauraverma06/AI-HR-Interview-System) 
+- 🔗 [GitHub Repo](https://github.com/P-Potdar/WINGS-HACKATHON-Codement)
 
 #### 🧩 Codement Hackathon Management Platform
 Organized and led national-level hackathons; built event tools for management.
