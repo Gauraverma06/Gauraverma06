@@ -35,13 +35,13 @@
 #### 🧬 Dynamic NFTs for Evolving Intelligent Assistance
 Developed AI-driven NFTs that evolve over time based on user interactions.
 - **Tech Stack:** Solidity, Web3.js, React, Node.js, OpenAI API
-🚧 Project temporarily unavailable (team repo is private)
+- 🚧 Project temporarily unavailable (team repo is private)
 
 
 #### 🧩 Codement Hackathon Management Platform
 Organized and led national-level hackathons; built event tools for management.
 - **Tech Stack:** MERN Stack, Firebase, GitHub API
-![Project coming soon](https://img.shields.io/badge/Project--Coming%20Soon-orange?style=for-the-badge)
+- ![Project coming soon](https://img.shields.io/badge/Project--Coming%20Soon-orange?style=for-the-badge)
 
 
 
