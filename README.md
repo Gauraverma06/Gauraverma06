@@ -32,22 +32,10 @@
 
 ### 🚀 Project Showcase
 
-#### 🧠 Deepfake Detector using Machine Learning  
-Built during a national-level hackathon, this project detects manipulated media (deepfakes) using advanced deep learning models and a fully responsive frontend interface.  
-- **Tech Stack:** Python, PyTorch, ResNeXt50, LSTM, HTML, CSS, JavaScript  
-- 🛠️ I contributed to the UI/UX development by creating the main landing pages (`index.html`, `about`, `predict`, and `404`), designed the navigation and footer components, and helped organize project structure and documentation.  
-- 🔗 [GitHub Repo (Team Project)](https://github.com/P-Potdar/hackprix-codement)
-
 #### 🧬 Dynamic NFTs for Evolving Intelligent Assistance
 Developed AI-driven NFTs that evolve over time based on user interactions.
 - **Tech Stack:** Solidity, Web3.js, React, Node.js, OpenAI API
 - 🔗 [GitHub Repo](https://github.com/Gauraverma06/Dynamic-NFT-AI) 
-
-#### 🤖 AI-powered Interview System & HR Automation  
-Built during a national-level hackathon, this project is an AI-driven hiring assistant that automates resume parsing, aptitude testing, and interview screening using voice-based AI.  
-- **Tech Stack:** Node.js, Express.js, HuggingFace Inference API, MongoDB, Twilio, Deepgram, OpenAI  
-- 🛠️ I contributed the backend architecture by setting up Express.js, integrating key AI tools using HuggingFace, and structuring the server to support voice processing and resume analysis features.  
-- 🔗 [GitHub Repo (Team Project)](https://github.com/P-Potdar/WINGS-HACKATHON-Codement)
 
 #### 🧩 Codement Hackathon Management Platform
 Organized and led national-level hackathons; built event tools for management.
