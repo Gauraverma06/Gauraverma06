@@ -54,6 +54,35 @@ Organized and led national-level hackathons; built event tools for management.
 - **Tech Stack:** MERN Stack, Firebase, GitHub API
 - 🔗 [GitHub Repo](https://github.com/Gauraverma06/Codement-Platform) *(update with actual link)*
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI-Powered Interview System</h3>
+      <p>Automated platform for resume parsing, aptitude testing, and AI-driven interviews.</p>
+      <ul>
+        <li><b>Tech:</b> Node.js, React, MongoDB, OpenAI, AWS</li>
+        <li><b>Role:</b> Set up Express backend & integrated HuggingFace inference</li>
+      </ul>
+      <a href="https://github.com/P-Potdar/WINGS-HACKATHON-Codement">
+        <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🧠 Deepfake Detector</h3>
+      <p>Detects deepfake media using ResNeXt50 + LSTM with a user-facing prediction UI.</p>
+      <ul>
+        <li><b>Tech:</b> PyTorch, Django, JavaScript, HTML</li>
+        <li><b>Role:</b> Created the frontend UI and integrated prediction pages</li>
+      </ul>
+      <a href="https://github.com/P-Potdar/hackprix-codement">
+        <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
