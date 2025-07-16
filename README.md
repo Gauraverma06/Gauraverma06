@@ -96,6 +96,19 @@ Organized and led national-level hackathons; built event tools for management.
         <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
       </a>
     </td>
+    <td width="50%" valign="top" style="padding: 10px; vertical-align: top;">
+  <h3 align="left" style="margin-bottom: 5px;">🧬 Dynamic NFTs for Evolving Assistance</h3>
+  <p><em><strong>Innovative Web3 + AI integration project</strong><br>
+  Created a dynamic NFT platform that evolves metadata in real-time based on user interaction and AI analysis.</em></p>
+  <ul>
+    <li><strong>Tech Stack:</strong> Solidity, Hardhat, Pinata (IPFS), React.js, Node.js, Express.js, OpenAI API</li>
+    <li><strong>My Role:</strong> Engineered the backend logic in Node.js and Express, integrated OpenAI for intelligent metadata generation, and linked smart contract events to dynamic frontend updates.</li>
+    <li><strong>Highlights:</strong> Combines blockchain state with AI-generated context to create NFTs that evolve over time.</li>
+  </ul>
+  <a href="https://github.com/Gauraverma06/Dynamic-NFTs-for-Evolving-Intelligent-Assistance">
+    <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+  </a>
+</td>
 
   </tr>
 </table>
