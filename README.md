@@ -57,10 +57,6 @@
 
 ### 🚀 Project Showcase
 
-#### 🧬 Dynamic NFTs for Evolving Intelligent Assistance
-Developed AI-driven NFTs that evolve over time based on user interactions.
-- **Tech Stack:** Solidity, Web3.js, React, Node.js, OpenAI API
-- 🚧 Project temporarily unavailable (team repo is private)
 
 
 #### 🧩 Codement Hackathon Management Platform
@@ -96,6 +92,9 @@ Organized and led national-level hackathons; built event tools for management.
         <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
       </a>
     </td>
+  </tr>
+    <!-- Deepfake Detector -->
+  <tr>
     <td width="50%" valign="top" style="padding: 10px; vertical-align: top;">
   <h3 align="left" style="margin-bottom: 5px;">🧬 Dynamic NFTs for Evolving Assistance</h3>
   <p><em><strong>Innovative Web3 + AI integration project</strong><br>
@@ -109,7 +108,6 @@ Organized and led national-level hackathons; built event tools for management.
     <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
   </a>
 </td>
-
   </tr>
 </table>
 
