@@ -43,10 +43,11 @@ Developed AI-driven NFTs that evolve over time based on user interactions.
 - **Tech Stack:** Solidity, Web3.js, React, Node.js, OpenAI API
 - 🔗 [GitHub Repo](https://github.com/Gauraverma06/Dynamic-NFT-AI) 
 
-#### 🤖 AI-powered Interview System & HR Automation
-An AI hiring assistant automating resume parsing, aptitude tests, and interviews.
-- **Tech Stack:** Gen AI, Python, React, Node.js, MongoDB, AWS, Deepgram, Twilio
-- 🔗 [GitHub Repo](https://github.com/P-Potdar/WINGS-HACKATHON-Codement)
+#### 🤖 AI-powered Interview System & HR Automation  
+Built during a national-level hackathon, this project is an AI-driven hiring assistant that automates resume parsing, aptitude testing, and interview screening using voice-based AI.  
+- **Tech Stack:** Node.js, Express.js, HuggingFace Inference API, MongoDB, Twilio, Deepgram, OpenAI  
+- 🛠️ I contributed the backend architecture by setting up Express.js, integrating key AI tools using HuggingFace, and structuring the server to support voice processing and resume analysis features.  
+- 🔗 [GitHub Repo (Team Project)](https://github.com/P-Potdar/WINGS-HACKATHON-Codement)
 
 #### 🧩 Codement Hackathon Management Platform
 Organized and led national-level hackathons; built event tools for management.
