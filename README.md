@@ -58,35 +58,31 @@ Organized and led national-level hackathons; built event tools for management.
 
 <table>
   <tr>
-    <td width="50%">
-      <strong>🤖 AI-powered Interview System</strong><br>
-      <em>Built during a national-level hackathon, this full-stack platform streamlines recruitment by automating resume parsing, aptitude tests, and live voice interviews using AI.</em>
-      <ul>
-        <li><strong>Tech Stack:</strong> Node.js, Express.js, MongoDB, HuggingFace Inference API, OpenAI, Twilio, Deepgram</li>
-        <li><strong>My Role:</strong> Developed the backend architecture with Express.js, integrated HuggingFace APIs for inference, and designed the pipeline for voice-based candidate evaluations using Twilio and Deepgram.</li>
-        <li><strong>Achievement:</strong> Top-ranking finalist at <em>WINGS National Hackathon</em>, competing against 50+ teams.</li>
-      </ul>
+    <!-- AI Interview System -->
+    <td width="50%" valign="top" style="padding: 10px; vertical-align: top;">
+      <h3 align="left" style="margin-bottom: 5px;">🤖 AI-powered Interview System</h3>
+      <p><em><strong>WINGS National Hackathon Finalist</strong><br>
+      An AI-driven recruitment platform that automates resume parsing, aptitude testing, and live voice interviews.</em></p>
+      <p><strong>🔧 Tech Stack:</strong><br>Node.js, Express.js, MongoDB, HuggingFace Inference API, OpenAI, Twilio, Deepgram</p>
+      <p><strong>👨‍💻 My Role:</strong><br>Set up the backend architecture using Express.js, integrated HuggingFace APIs for inference, and designed a pipeline for voice-based evaluations using Twilio and Deepgram.</p>
       <a href="https://github.com/P-Potdar/WINGS-HACKATHON-Codement">
         <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
       </a>
     </td>
-
-<td width="50%" valign="top">
-  <strong>🧠 Deepfake Detector</strong><br>
-  <em>Created as part of a national-level hackathon, this web-based system detects manipulated media using deep learning models like ResNeXt50 and LSTM to help combat misinformation.</em>
-  <ul>
-    <li><strong>Tech Stack:</strong> Python, PyTorch, ResNeXt50, LSTM, HTML, CSS, JavaScript</li>
-    <li><strong>My Role:</strong> Developed the full frontend UI — including the prediction, about, and 404 pages — and organized the project structure and documentation.</li>
-    <li><strong>Achievement:</strong> Finalist at <em>HackPrix National Hackathon</em> (100+ teams)</li>
-  </ul>
-  <a href="https://github.com/P-Potdar/hackprix-codement">
-    <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-  </a>
-</td>
+    <!-- Deepfake Detector -->
+    <td width="50%" valign="top" style="padding: 10px; vertical-align: top;">
+      <h3 align="left" style="margin-bottom: 5px;">🧠 Deepfake Detector</h3>
+      <p><em><strong>HackPrix National Hackathon Finalist</strong><br>
+      A deep learning-based system to detect manipulated media using ResNeXt50 and LSTM, with a fully responsive frontend.</em></p>
+      <p><strong>🔧 Tech Stack:</strong><br>Python, PyTorch, ResNeXt50, LSTM, HTML, CSS, JavaScript</p>
+      <p><strong>👨‍💻 My Role:</strong><br>Designed and built the frontend UI (landing, about, prediction, and 404 pages), organized the overall project structure, and maintained documentation.</p>
+      <a href="https://github.com/P-Potdar/hackprix-codement">
+        <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+      </a>
+    </td>
 
   </tr>
 </table>
->
 
 ---
 
