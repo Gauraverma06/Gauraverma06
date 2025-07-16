@@ -53,19 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
 </p>
 
-
-
-### 🚀 Project Showcase
-
-
-
-#### 🧩 Codement Hackathon Management Platform
-Organized and led national-level hackathons; built event tools for management.
-- **Tech Stack:** MERN Stack, Firebase, GitHub API
-- ![Project coming soon](https://img.shields.io/badge/Project--Coming%20Soon-orange?style=for-the-badge)
-
-
-
 ## 🚀 Featured Projects
 
 <table>
@@ -110,6 +97,15 @@ Organized and led national-level hackathons; built event tools for management.
 </td>
   </tr>
 </table>
+
+---
+
+### 🚀 Project Showcase
+
+#### 🧩 Codement Hackathon Management Platform
+Organized and led national-level hackathons; built event tools for management.
+- **Tech Stack:** MERN Stack, Firebase, GitHub API
+- ![Project coming soon](https://img.shields.io/badge/Project--Coming%20Soon-orange?style=for-the-badge)
 
 ---
 
