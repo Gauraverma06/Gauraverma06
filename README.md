@@ -32,10 +32,11 @@
 
 ### 🚀 Project Showcase
 
-#### 🧠 Deepfake Detector using Machine Learning
-Detects manipulated media using deep learning algorithms to fight misinformation.
-- **Tech Stack:** Python, PyTorch, Django, ResNeXt50, LSTM
-- 🔗 [GitHub Repo](https://github.com/P-Potdar/WINGS-HACKATHON-Codement) 
+#### 🧠 Deepfake Detector using Machine Learning  
+Built during a national-level hackathon, this project detects manipulated media (deepfakes) using advanced deep learning models.  
+- **Tech Stack:** Python, PyTorch, Django, ResNeXt50, LSTM  
+- 🧩 I contributed the backend architecture setup using Express.js and integrated inference tools from HuggingFace to support real-time media classification.  
+- 🔗 [GitHub Repo (Team Project)](https://github.com/P-Potdar/WINGS-HACKATHON-Codement)
 
 #### 🧬 Dynamic NFTs for Evolving Intelligent Assistance
 Developed AI-driven NFTs that evolve over time based on user interactions.
