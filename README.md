@@ -56,8 +56,6 @@ Organized and led national-level hackathons; built event tools for management.
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 <table>
   <tr>
     <td width="50%">
@@ -85,16 +83,6 @@ Organized and led national-level hackathons; built event tools for management.
     </td>
   </tr>
 </table>
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gauraverma06&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauraverma06&layout=compact&theme=radical" width="48%" />
-</p>
 
 ---
 
