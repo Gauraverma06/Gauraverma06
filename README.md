@@ -59,30 +59,27 @@ Organized and led national-level hackathons; built event tools for management.
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 AI-powered Interview System</h3>
-      <p>AI-driven hiring assistant that automates resume parsing, aptitude testing, and AI-based interview screening with voice integration.</p>
+      <strong>🤖 AI-powered Interview System</strong><br>
+      <em>AI-driven hiring assistant that automates resume parsing, aptitude testing, and AI-based interview screening with voice integration.</em>
       <ul>
-        <li><b>Tech:</b> Node.js, Express.js, HuggingFace Inference API, MongoDB, Twilio, Deepgram, OpenAI</li>
-        <li><b>Role:</b> Set up backend with Express.js, integrated HuggingFace APIs, and structured the server for resume and voice processing.</li>
+        <li><strong>Tech:</strong> Node.js, Express.js, HuggingFace Inference API, MongoDB, Twilio, Deepgram, OpenAI</li>
+        <li><strong>Role:</strong> Set up backend with Express.js, integrated HuggingFace APIs, and structured the server for resume and voice processing.</li>
       </ul>
       <a href="https://github.com/P-Potdar/WINGS-HACKATHON-Codement">
-        <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
       </a>
     </td>
-  </tr>
-    <tr> 
     <td width="50%">
-      <h3>🧠 Deepfake Detector</h3>
-      <p>Detects deepfakes using ResNeXt50 + LSTM and provides predictions via a responsive web interface.</p>
+      <strong>🧠 Deepfake Detector</strong><br>
+      <em>Detects deepfakes using ResNeXt50 + LSTM and provides predictions via a responsive web interface.</em>
       <ul>
-        <li><b>Tech:</b> Python, PyTorch, ResNeXt50, LSTM, HTML, CSS, JavaScript</li>
-        <li><b>Role:</b> Designed and implemented frontend UI including navigation, landing, prediction, and error pages; organized project structure and documentation.</li>
+        <li><strong>Tech:</strong> Python, PyTorch, ResNeXt50, LSTM, HTML, CSS, JavaScript</li>
+        <li><strong>Role:</strong> Designed and implemented frontend UI including navigation, landing, prediction, and error pages; organized project structure and documentation.</li>
       </ul>
       <a href="https://github.com/P-Potdar/hackprix-codement">
-        <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View%20Project-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
       </a>
     </td>
-    </tr>
   </tr>
 </table>
 
