@@ -35,17 +35,17 @@
 #### 🧠 Deepfake Detector using Machine Learning
 Detects manipulated media using deep learning algorithms to fight misinformation.
 - **Tech Stack:** Python, PyTorch, Django, ResNeXt50, LSTM
-- 🔗 [GitHub Repo](https://github.com/Gauraverma06/Deepfake-Detector) *(update with actual link)*
+- 🔗 [GitHub Repo]((https://github.com/P-Potdar/WINGS-HACKATHON-Codement)) 
 
 #### 🧬 Dynamic NFTs for Evolving Intelligent Assistance
 Developed AI-driven NFTs that evolve over time based on user interactions.
 - **Tech Stack:** Solidity, Web3.js, React, Node.js, OpenAI API
-- 🔗 [GitHub Repo](https://github.com/Gauraverma06/Dynamic-NFT-AI) *(update with actual link)*
+- 🔗 [GitHub Repo](https://github.com/Gauraverma06/Dynamic-NFT-AI) 
 
 #### 🤖 AI-powered Interview System & HR Automation
 An AI hiring assistant automating resume parsing, aptitude tests, and interviews.
 - **Tech Stack:** Gen AI, Python, React, Node.js, MongoDB, AWS, Deepgram, Twilio
-- 🔗 [GitHub Repo](https://github.com/Gauraverma06/AI-HR-Interview-System) *(update with actual link)*
+- 🔗 [GitHub Repo](https://github.com/Gauraverma06/AI-HR-Interview-System) 
 
 #### 🧩 Codement Hackathon Management Platform
 Organized and led national-level hackathons; built event tools for management.
