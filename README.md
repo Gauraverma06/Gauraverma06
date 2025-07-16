@@ -35,7 +35,7 @@
 #### 🧠 Deepfake Detector using Machine Learning
 Detects manipulated media using deep learning algorithms to fight misinformation.
 - **Tech Stack:** Python, PyTorch, Django, ResNeXt50, LSTM
-- 🔗 [GitHub Repo]((https://github.com/P-Potdar/WINGS-HACKATHON-Codement)) 
+- 🔗 [GitHub Repo](https://github.com/P-Potdar/WINGS-HACKATHON-Codement) 
 
 #### 🧬 Dynamic NFTs for Evolving Intelligent Assistance
 Developed AI-driven NFTs that evolve over time based on user interactions.
