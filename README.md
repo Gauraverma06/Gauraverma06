@@ -58,8 +58,8 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   </a>
- <a href="https://openai.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
+<a href="https://openai.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="OpenAI" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 6px;" />
 </a>
   <a href="https://www.huggingface.co" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="HuggingFace" width="40" height="40"/>
